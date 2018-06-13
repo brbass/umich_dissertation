@@ -1,0 +1,15 @@
+#!/bin/bash
+
+filename=$1
+prefix=output
+rm $prefix.*
+cp $filename $prefix.tex
+emacs $prefix.tex
+pdflatex $prefix
+pdflatex $prefix
+bibtex $prefix
+pdflatex $prefix
+bibtex $prefix
+pdflatex $prefix
+pdflatex $prefix
+pdflatex $prefix
