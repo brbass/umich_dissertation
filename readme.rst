@@ -22,6 +22,7 @@ To output the dissertation with the separate List of Appendices:
 - Run
 
 ::
+
    ./make_doc Bassett_Meshless_2018.tex
 
 - In the editor, move the \usepackage[...]{hyperref} line down to the comment "Move hyperref here" (around line 61)
