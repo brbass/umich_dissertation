@@ -1,6 +1,6 @@
---------------------------------------
-Dissertation at University of Michigan
---------------------------------------
+-----------
+Information
+-----------
 
 This is the final copy of my dissertation from the University of Michigan. The file "Bassett_Meshless_2018.pdf" is the accepted document. The other code is included for the benefit of other University of Michigan students formatting their dissertation.
 
