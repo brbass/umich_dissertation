@@ -1,6 +1,7 @@
 To output a complete version of the dissertation without the separate List of Appendices, use LyX and output using pdflatex with the Output_LyX branch enabled and the Output_LaTeX branch disabled.
 
 To output the dissertation with the separate List of Appendices:
+
 - Enable the Output_LaTeX branch and disable the Output_LyX branch
 - Output Bassett_Meshless_2018.lyx to Bassett_Meshless_2018.tex using pdflatex (or use the included .tex file)
 - Edit make_doc file if you want to use an editor other than emacs
